@@ -4,21 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc886719-7914-47c7-bf19-0bda59bcb32e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing podstawy - Zadania.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zadanie123/ComponentMover.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zadanie123/HelloDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zadanie123/MainFrame.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zadanie123/MainFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zadanie123/RadioButtonsChooser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zadanie123/SizeChangeDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zadanie123/Zadanie1App.java" afterDir="false" />
+    <list default="true" id="dc886719-7914-47c7-bf19-0bda59bcb32e" name="Changes" comment="First three exercises done.">
+      <change afterPath="$PROJECT_DIR$/src/zadanie4/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadanie4/MainFrame.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadanie4/MainFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadanie4/Zadanie4App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanie123/Zadanie1App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zadanie123/Zadanie123App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,25 +37,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH&quot;: &quot;301&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Robert/IdeaProjects/Swing podstawy - Zadania/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "190",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "C:/Users/Robert/IdeaProjects/Swing podstawy - Zadania/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager">
-    <configuration name="Zadanie1App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zadanie123.Zadanie1App" />
+}]]></component>
+  <component name="RunManager" selected="Application.Zadanie4App">
+    <configuration name="Zadanie123App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadanie123.Zadanie123App" />
       <module name="Swing podstawy - Zadania" />
       <extension name="coverage">
         <pattern>
@@ -74,9 +67,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Zadanie4App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadanie4.Zadanie4App" />
+      <module name="Swing podstawy - Zadania" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zadanie4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Zadanie1App" />
+        <item itemvalue="Application.Zadanie4App" />
+        <item itemvalue="Application.Zadanie123App" />
       </list>
     </recent_temporary>
   </component>
@@ -92,22 +99,35 @@
       <workItem from="1700302951504" duration="978000" />
       <workItem from="1700310946891" duration="3511000" />
       <workItem from="1700391194042" duration="3212000" />
-      <workItem from="1700404023289" duration="798000" />
+      <workItem from="1700404023289" duration="16574000" />
     </task>
+    <task id="LOCAL-00001" summary="First three exercises done.">
+      <option name="closed" value="true" />
+      <created>1700405026567</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700405026567</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/zadanie123/HelloDialog.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First three exercises done." />
+    <option name="LAST_COMMIT_MESSAGE" value="First three exercises done." />
   </component>
 </project>

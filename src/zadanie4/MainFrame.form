@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="zadanie4.MainFrame">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="GridLayoutManager" row-count="2" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="560" height="400"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <grid id="b608d" layout-manager="GridLayoutManager" row-count="5" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="0" left="0" bottom="0" right="0"/>
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <grid id="65320" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+            <constraints>
+              <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties/>
+            <border type="none"/>
+            <children>
+              <component id="e40db" class="javax.swing.JButton" binding="a1Button" default-binding="true">
+                <constraints/>
+                <properties>
+                  <text value="1"/>
+                </properties>
+              </component>
+              <component id="a27be" class="javax.swing.JButton" binding="a2Button" default-binding="true">
+                <constraints/>
+                <properties>
+                  <text value="2"/>
+                </properties>
+              </component>
+              <component id="b5229" class="javax.swing.JButton" binding="a3Button" default-binding="true">
+                <constraints/>
+                <properties>
+                  <text value="3"/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+          <grid id="c3827" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+            <constraints>
+              <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties/>
+            <border type="none"/>
+            <children>
+              <component id="889fd" class="javax.swing.JButton" binding="a4Button">
+                <constraints/>
+                <properties>
+                  <text value="4"/>
+                </properties>
+              </component>
+              <component id="fbe47" class="javax.swing.JButton" binding="a5Button">
+                <constraints/>
+                <properties>
+                  <text value="5"/>
+                </properties>
+              </component>
+              <component id="7b5af" class="javax.swing.JButton" binding="a6Button">
+                <constraints/>
+                <properties>
+                  <text value="6"/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+          <grid id="b91fd" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+            <constraints>
+              <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties/>
+            <border type="none"/>
+            <children>
+              <component id="276d0" class="javax.swing.JButton" binding="a7Button">
+                <constraints/>
+                <properties>
+                  <text value="7"/>
+                </properties>
+              </component>
+              <component id="4fedc" class="javax.swing.JButton" binding="a8Button">
+                <constraints/>
+                <properties>
+                  <text value="8"/>
+                </properties>
+              </component>
+              <component id="4e82f" class="javax.swing.JButton" binding="a9Button">
+                <constraints/>
+                <properties>
+                  <text value="9"/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+          <grid id="58795" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties/>
+            <border type="none"/>
+            <children>
+              <component id="6f008" class="javax.swing.JButton" binding="a0Button" default-binding="true">
+                <constraints/>
+                <properties>
+                  <text value="0"/>
+                </properties>
+              </component>
+              <component id="bd11e" class="javax.swing.JButton" binding="equals">
+                <constraints/>
+                <properties>
+                  <text value="="/>
+                </properties>
+              </component>
+              <component id="590f2" class="javax.swing.JButton" binding="dot">
+                <constraints/>
+                <properties>
+                  <text value="."/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+          <grid id="d982f" layout-manager="GridLayoutManager" row-count="2" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+            <margin top="0" left="0" bottom="0" right="0"/>
+            <constraints>
+              <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties/>
+            <border type="none"/>
+            <children>
+              <grid id="3cdde" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+                <constraints>
+                  <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties/>
+                <border type="none"/>
+                <children>
+                  <component id="cfe99" class="javax.swing.JButton" binding="addition">
+                    <constraints/>
+                    <properties>
+                      <text value="+"/>
+                    </properties>
+                  </component>
+                  <component id="a1c57" class="javax.swing.JButton" binding="subtraction">
+                    <constraints/>
+                    <properties>
+                      <text value="-"/>
+                    </properties>
+                  </component>
+                </children>
+              </grid>
+              <grid id="5497" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+                <constraints>
+                  <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties/>
+                <border type="none"/>
+                <children>
+                  <component id="1cccf" class="javax.swing.JButton" binding="multiplication">
+                    <constraints/>
+                    <properties>
+                      <text value="*"/>
+                    </properties>
+                  </component>
+                  <component id="f2ed3" class="javax.swing.JButton" binding="division">
+                    <constraints/>
+                    <properties>
+                      <text value="/"/>
+                    </properties>
+                  </component>
+                </children>
+              </grid>
+            </children>
+          </grid>
+        </children>
+      </grid>
+      <component id="c4bb2" class="javax.swing.JLabel" binding="resultLabel">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false">
+            <preferred-size width="-1" height="30"/>
+          </grid>
+        </constraints>
+        <properties>
+          <text value=""/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>

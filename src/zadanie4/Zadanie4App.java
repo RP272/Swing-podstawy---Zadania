@@ -1,8 +1,7 @@
-package zadanie123;
+package zadanie4;
 
 import javax.swing.*;
-
-public class Zadanie1App {
+public class Zadanie4App {
     public static void main(String[] args) {
         SwingUtilities.invokeLater(new Runnable() {
             public void run() {
