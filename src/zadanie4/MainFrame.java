@@ -27,6 +27,14 @@ public class MainFrame extends JFrame{
 
     public MainFrame() throws HeadlessException {
         this("undefined");
+
+    }
+    public MainFrame(String title) throws HeadlessException{
+        super(title);
+        setContentPane(panel1);
+        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        setSize(324, 478);
+
         ActionListener listener = new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
@@ -50,12 +58,5 @@ public class MainFrame extends JFrame{
         multiplication.addActionListener(listener);
         division.addActionListener(listener);
         dot.addActionListener(listener);
-    }
-
-    public MainFrame(String title) throws HeadlessException{
-        super(title);
-        setContentPane(panel1);
-        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        setSize(324, 478);
     }
 }

@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc886719-7914-47c7-bf19-0bda59bcb32e" name="Changes" comment="First three exercises done.">
-      <change afterPath="$PROJECT_DIR$/src/zadanie4/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zadanie4/MainFrame.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zadanie4/MainFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zadanie4/Zadanie4App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+    <list default="true" id="dc886719-7914-47c7-bf19-0bda59bcb32e" name="Changes" comment="Calculator is working.">
+      <change afterPath="$PROJECT_DIR$/src/zadanie5/MainFrame.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadanie5/MainFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadanie5/PasswordStrengthVerifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadanie5/Zadanie5App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zadanie123/Zadanie1App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zadanie123/Zadanie123App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanie4/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zadanie4/MainFrame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Zadanie4App">
+  <component name="RunManager" selected="Application.Zadanie5App">
     <configuration name="Zadanie123App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zadanie123.Zadanie123App" />
       <module name="Swing podstawy - Zadania" />
@@ -80,8 +79,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Zadanie5App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadanie5.Zadanie5App" />
+      <module name="Swing podstawy - Zadania" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zadanie5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zadanie5App" />
         <item itemvalue="Application.Zadanie4App" />
         <item itemvalue="Application.Zadanie123App" />
       </list>
@@ -99,7 +112,7 @@
       <workItem from="1700302951504" duration="978000" />
       <workItem from="1700310946891" duration="3511000" />
       <workItem from="1700391194042" duration="3212000" />
-      <workItem from="1700404023289" duration="16574000" />
+      <workItem from="1700404023289" duration="18734000" />
     </task>
     <task id="LOCAL-00001" summary="First three exercises done.">
       <option name="closed" value="true" />
@@ -109,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700405026567</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Calculator is working.">
+      <option name="closed" value="true" />
+      <created>1700422007306</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700422007306</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +149,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First three exercises done." />
-    <option name="LAST_COMMIT_MESSAGE" value="First three exercises done." />
+    <MESSAGE value="Calculator is working." />
+    <option name="LAST_COMMIT_MESSAGE" value="Calculator is working." />
   </component>
 </project>
