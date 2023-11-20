@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc886719-7914-47c7-bf19-0bda59bcb32e" name="Changes" comment="Calculator is working.">
-      <change afterPath="$PROJECT_DIR$/src/zadanie5/MainFrame.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zadanie5/MainFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zadanie5/PasswordStrengthVerifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zadanie5/Zadanie5App.java" afterDir="false" />
+    <list default="true" id="dc886719-7914-47c7-bf19-0bda59bcb32e" name="Changes" comment="Zadanie5 is working.">
+      <change afterPath="$PROJECT_DIR$/src/zadanie6/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadanie6/ContactCreateFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadanie6/MainFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadanie6/Zadanie6App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zadanie4/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zadanie4/MainFrame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,23 +35,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "190",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "C:/Users/Robert/IdeaProjects/Swing podstawy - Zadania/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH&quot;: &quot;138&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH&quot;: &quot;190&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Robert/IdeaProjects/Swing podstawy - Zadania/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Zadanie5App">
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Robert\IdeaProjects\Swing podstawy - Zadania\src\zadanie6" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Zadanie6App">
     <configuration name="Zadanie123App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zadanie123.Zadanie123App" />
       <module name="Swing podstawy - Zadania" />
@@ -84,7 +89,20 @@
       <module name="Swing podstawy - Zadania" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zadanie5.*" />
+          <option name="PATTERN" value="zadanie5.Contact" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zadanie6App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadanie6.Zadanie6App" />
+      <module name="Swing podstawy - Zadania" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zadanie6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,6 +112,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zadanie6App" />
         <item itemvalue="Application.Zadanie5App" />
         <item itemvalue="Application.Zadanie4App" />
         <item itemvalue="Application.Zadanie123App" />
@@ -112,7 +131,8 @@
       <workItem from="1700302951504" duration="978000" />
       <workItem from="1700310946891" duration="3511000" />
       <workItem from="1700391194042" duration="3212000" />
-      <workItem from="1700404023289" duration="18734000" />
+      <workItem from="1700404023289" duration="24083000" />
+      <workItem from="1700476910358" duration="6642000" />
     </task>
     <task id="LOCAL-00001" summary="First three exercises done.">
       <option name="closed" value="true" />
@@ -130,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700422007306</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Zadanie5 is working.">
+      <option name="closed" value="true" />
+      <created>1700424254865</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700424254865</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,6 +178,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First three exercises done." />
     <MESSAGE value="Calculator is working." />
-    <option name="LAST_COMMIT_MESSAGE" value="Calculator is working." />
+    <MESSAGE value="Zadanie5 is working." />
+    <option name="LAST_COMMIT_MESSAGE" value="Zadanie5 is working." />
   </component>
 </project>
